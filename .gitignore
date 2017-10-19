@@ -1,8 +1,4 @@
-/node_modules
-bundle.js
-npm-debug.log
-.DS_Store
-
-# IntelliJ
-*.iml
-/.idea
+node_modules
+config.js
+package-lock.json
+yarn.lock
