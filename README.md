@@ -1,25 +1,6 @@
-# ReduxSimpleStarter
+# APIServerStarter
+Boilerplate for API Client Auth using React, Redux, Redux Form v6, React Router v4, and Redux Thunk.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This boilerplate follows the guidelines that are laid out in Stephen Grider's Advanced React Redux course on Udemy.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+<a href="https://github.com/StephenGrider">Stephen Grider's Github</a>
